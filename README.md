@@ -8,7 +8,7 @@ I completed my apprenticeship as an **Informatiker EFZ Applikationsentwicklung**
 
 ## About me
 
-I like working on projects where design and development come together and offer as well some small gimmicks.  
+I like working on projects where design and development come together, with small gimmicks that make the experience more interesting.
 My main and favourite focus is frontend development, but I also enjoy building full-stack applications and experimenting with new ideas.
 
 I’m especially interested in:
