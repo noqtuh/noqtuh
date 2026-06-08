@@ -24,10 +24,10 @@ I’m especially interested in:
 
 ```txt
 Frontend
-Vue.js · JavaScript · HTML · CSS · Tailwind CSS · GSAP
+Vue.js · JavaScript · Tailwind · HTML · CSS
 
 Backend
-Java · Grails · REST APIs
+Java · Grails · Node.js · APIs · DBs · Supabase
 
 Tools
-Git · GitHub · IntelliJ · VS Code · Figma
+GitHub · Figma · JetBrains · Postman · Docker · Vercel
